@@ -3,7 +3,7 @@
 Tip Calculator app made in fulfillment with CodePath's iOS Mobile Developmenet Pre-Work Requirement.
 This app lets the user calculate the total bill depending on the tip percentage/amount that they want.
 
-![](https://github.com/Trek182021/TipCalculator-iOS-/TipCalculator.gif)
+![](https://github.com/Trek182021/TipCalculator-iOS-/blob/main/TipCalculator.gif)
 
 
 **Features**
